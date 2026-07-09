@@ -1,0 +1,13 @@
+{
+  "name": "ideator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  }
+}
